@@ -50,3 +50,16 @@ footer {
   border-top: 1px solid #333;
   font-size: 0.9rem;
 }
+
+.project {
+  margin-bottom: 2rem;
+}
+
+.project h3 {
+  color: #61dafb;
+  margin-bottom: 0.3rem;
+}
+
+.project p {
+  margin-top: 0;
+}
